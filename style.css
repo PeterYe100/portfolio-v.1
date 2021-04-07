@@ -5,6 +5,7 @@ html, body {
   overflow-y: overlay;
   list-style: none;
   list-style-type: none;
+  font-family: 'Trade Winds', cursive;
 }
 
 .navbar
